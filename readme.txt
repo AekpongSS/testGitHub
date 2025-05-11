@@ -34,3 +34,8 @@ git merge add-syncmasterdata  'merge master branch กับกิ่ง add-syn
 git branch -M main
 git remote add origin https://github.com/AekpongSS/testGitHub.git
 git push -u origin main
+
+การโคลนเพื่อไปพัฒนาต่อ
+git clone https://github.com/username/repo-name.git
+cd repo-name
+code .
